@@ -15,7 +15,7 @@ nesse projeto fiz uma atividade da trilha explorer da rockteset que pede para mo
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./icons/capa.png">
 </p>
 
 <br>
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-- [Visite o projeto online] (https://dashing-marzipan-21385d.netlify.app/)
+- [Visite o projeto online] (https://khnum782.github.io/recriando-layout-/)
 
 ## 🔖 Layout
 
